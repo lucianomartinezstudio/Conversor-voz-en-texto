@@ -1,0 +1,7 @@
+{
+  "name": "Dictado AI en Vivo",
+  "description": "Una aplicación de dictado en tiempo real que transcribe tu voz a texto utilizando la API Live de Gemini, permitiendo exportar a formatos .txt y .doc.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
